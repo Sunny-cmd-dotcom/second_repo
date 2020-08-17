@@ -1,2 +1,1 @@
-123456789
-abcdef
+i am a good programmer
